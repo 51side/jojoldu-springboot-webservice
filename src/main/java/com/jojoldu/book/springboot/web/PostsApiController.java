@@ -4,7 +4,6 @@ import com.jojoldu.book.springboot.service.posts.PostsService;
 import com.jojoldu.book.springboot.web.dto.PostsResponseDto;
 import com.jojoldu.book.springboot.web.dto.PostsSaveRequestDto;
 import com.jojoldu.book.springboot.web.dto.PostsUpdateRequestDto;
-import jdk.internal.jline.internal.TestAccessible;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
